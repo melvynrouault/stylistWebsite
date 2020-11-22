@@ -52,12 +52,19 @@
       </div>
     </div>
   </template>
+
+
+<style scoped>
+
+
+</style>
+
 <script>
   export default {
     data:() => ({
-      active: 'guide'
+      active: 'masques'
     })
   }
-  </script>
+</script>
 
         
